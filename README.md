@@ -28,6 +28,9 @@ Email: boyu.liu@gmail.com
 
 * [R3 Corda：一个为金融服务设计的分布式账本系统](http://ethfans.org/posts/r3-corda-announcement) / [Introducing R3 Corda™: A Distributed Ledger Designed for Financial Services](http://www.r3cev.com/blog/2016/4/4/introducing-r3-corda-a-distributed-ledger-designed-for-financial-services) - 推荐(虽然并不完全认同其观点，但他的思考方式非常值得借鉴)
 
+### 网文
+* [区块链理论学习入门指南](https://daimajia.com/2017/08/24/how-to-start-blockchain-learning)
+
 ### 相关社区
 
 * [巴比特](http://www.8btc.com/)
